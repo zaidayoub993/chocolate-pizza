@@ -1,0 +1,84 @@
+*{
+    box-sizing : border-box
+}
+body{
+    width: 901px;
+    padding-left: 270px;
+}
+div {
+    float: left;
+    position: relative;
+    left: 20px;
+    width: 901px;
+
+}
+    nav{
+    position: relative;
+  left: 208px;
+ }
+
+nav ul li {
+    display: inline block;
+    float: right;
+    left: 60px;
+    position: relative;
+    list-style: none;
+}
+h1 {
+    clear: both;
+    margin-bottom: 1px;
+    
+}
+H5 {
+   margin:1px ;
+}
+section{
+    width: 901px;
+}
+#recipe{
+    background-image:url("../img/list-bg.png");
+    position: relative;
+    background-color: darkred;
+}
+#ul1{
+float: left;
+position: relative;
+list-style: none;
+}
+#ul2{
+position: relative;
+float: right;
+right: 200px;
+list-style: none;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
+.botton {
+    color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    border:1px solid crimson;
+    background-color:crimson;
+    border-radius: 0%;
+    float: left;
+    top: 55px;
+    left: 146px;
+    padding: 15px;
+    position: relative;
+
+}
+.p5{
+    float: left;
+    position: relative;
+}
+.h2{
+    clear: both;
+}
+.img8{
+    clear: both;
+    right: 301px;
+    position: relative;
+    top: 105px;
+}
