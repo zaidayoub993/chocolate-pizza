@@ -68,6 +68,9 @@ list-style: none;
 footer{
     clear: both;
     text-align: center;
+    position: relative;
+    left: 130px;
+    padding: 20px;
 }
 .botton {
     color: #f1f1f1;
@@ -77,10 +80,11 @@ footer{
     background-color:crimson;
     border-radius: 0%;
     float: left;
-    top: 55px;
-    left: 146px;
+    /* top: 55px; */
+    left: 530px;
     padding: 15px;
     position: relative;
+    bottom: 35px;
 
 }
 .p5{
@@ -92,9 +96,10 @@ footer{
 }
 .img8{
     clear: both;
-    right: 301px;
+    /* right: 301px; */
     position: relative;
-    top: 105px;
+    top: 28px;
+    left: 55px;
 }
 .span1{
     font-family: 'Yellowtail', cursive;
@@ -134,4 +139,19 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .list-background {
     margin-top: 8.9vw;
     width: 100%;
+}
+.span6{
+    position: relative;
+    bottom: 50px;
+    font-family: serif;
+    font-size: 120%;
+    font-weight: bold;
+    left: 10px;
+
+}
+.span7{
+    position: relative;
+    top: 33px;
+    text-align: left;
+    right: 140px;
 }
