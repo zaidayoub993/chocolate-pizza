@@ -46,7 +46,7 @@ position: relative;
 top: 85px;
 }
 section{
-    width: 901px;
+    width: 901px; 
 }
 #recipe{
     background-image:url("../img/list-bg.png");
